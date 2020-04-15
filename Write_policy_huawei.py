@@ -16,7 +16,7 @@ sys.setdefaultencoding('utf8')
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
 # The ID and range of a spreadsheet.
-SPREADSHEET_ID = '1q6j10Q8CHmH7bLRvdg0EmckFsiSK-he7IHSWcI97zFc'
+SPREADSHEET_ID = '1q6j10Q8CHmH7bLRvdg0EmckFsiSK-he7IHSWcI97zFC'
 RANGE_NAME = 'BGP!A2:F'
 
 def main():
